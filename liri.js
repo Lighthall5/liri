@@ -42,3 +42,6 @@ function movieThis(movieName){
 	});
 }
 // i know this isnt very much but this is what im getting tuturing for next sorry TA
+// got really confused and tried to block the package.json file and that took a couple hours to realize that wasnt 
+// what yall wanted and the rest was documentation and trying to make the function.
+// i will get better im deterined to be top of the class!!
